@@ -10,7 +10,6 @@
     <?php include '../php/header.php'; ?> 
 
     <div class="container">
-        <h1>Add Employee</h1>
         <form action="../php/add_employee.php" method="post" enctype="multipart/form-data"> <!-- Form action -->
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
