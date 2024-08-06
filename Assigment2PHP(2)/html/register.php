@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
-    <h1>Register</h1>
+<?php include '../php/header.php'; ?> 
     <form action="register.php" method="post">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required>
@@ -15,5 +15,6 @@
         <input type="password" id="password" name="password" required>
         <button type="submit">Register</button>
     </form>
+    <?php include '../php/footer.php'; ?>
 </body>
 </html>
