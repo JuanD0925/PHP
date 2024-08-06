@@ -9,7 +9,6 @@
 <body>
     <?php include '../php/header.php'; ?>
     <div class="container">
-        <h1>Welcome to the Employee Portal</h1>
         <nav>
             <a href="add_employee.html">Add New Employee</a>
             <a href="view_employees.html">View Employees</a>
