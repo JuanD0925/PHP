@@ -9,7 +9,6 @@
 <body>
     <?php include '../php/header.php'; ?>
     <div class="container">
-        <h1>Login</h1>
         <form action="../php/login.php" method="post">
             <label for="username">Username:</label>
             <input type="text" id="username" name="username" required>
