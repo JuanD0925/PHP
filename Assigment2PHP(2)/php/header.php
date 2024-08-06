@@ -11,7 +11,7 @@
         <h1>Employee Portal</h1>
         <nav>
             <a href="../html/add_employee.php">Add Employee</a>
-            <a href="../html/view_employees.php">View Employees</a>
+            <a href="../html/view_employee.php">View Employees</a>
             <a href="../html/login.php">Login</a>
             <a href="../html/register.php">Register</a>
         </nav>
